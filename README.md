@@ -37,16 +37,13 @@
 <div align="center">
 
 ### 🏠 **Main Interface**
-> *Coming Soon: Add your screenshot here*
-<!-- ![FLOWY Main Interface](screenshots/main-interface.png) -->
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/575eecb2-ffcd-4dd7-90ec-33f45967d097" />
 
 ### ⚙️ **Node Configuration**
-> *Coming Soon: Add your screenshot here*
-<!-- ![Node Configuration Panel](screenshots/node-config.png) -->
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0981dc0f-4a94-47a7-a99a-2cab1a61ee9c" />
 
 ### 💻 **Code Editor**
-> *Coming Soon: Add your screenshot here*
-<!-- ![Terminal Code Editor](screenshots/code-editor.png) -->
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/12da30ae-0801-425e-b7ac-3a2d16eb8bfd" />
 
 </div>
 
@@ -263,7 +260,7 @@ We love contributions! Here's how you can help make FLOWY even better:
 ### 💡 **Have an idea?**
 1. Open a [feature request](https://github.com/yourusername/flowy/issues/new?template=feature_request.md)
 2. Describe your idea and use cases
-3. Join the discussion in our [Discord](https://discord.gg/flowy)
+3. Build and deploy for approval
 
 ### 🔧 **Want to code?**
 
@@ -337,10 +334,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### 🚀 **Built with ❤️ and lots of ⚡ by the FLOWY team**
 
 **[🌐 Demo](https://flowy-demo.vercel.app)** • 
-**[📚 Docs](https://docs.flowy.dev)** • 
-**[🐛 Issues](https://github.com/yourusername/flowy/issues)** • 
-**[💬 Discord](https://discord.gg/flowy)** • 
-**[🐦 Twitter](https://twitter.com/flowy_dev)**
+**[🐛 Issues](https://github.com/bloomberg-sudo-dev/flowy/issues)** • 
+**[🐦 Twitter](https://twitter.com/OpemipoOduntan)**
 
 ---
 
@@ -349,40 +344,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Made with 🔥 in the year 2024 for the workflows of 2099**
 
 </div>
-```
-
-## 🎨 **Key Features of This README:**
-
-### ✨ **Visual Elements**
-- **ASCII Art Header** - Eye-catching FLOWY logo
-- **Color-coded Badges** - Professional status indicators
-- **Emojis & Icons** - Visual hierarchy and personality
-- **Tables & Layouts** - Organized information display
-
-### 📋 **Comprehensive Sections**
-- **Hero Section** - Clear value proposition
-- **Screenshots Placeholders** - Ready for your images
-- **Feature Breakdown** - Technical and aesthetic highlights
-- **Installation Guide** - Step-by-step setup
-- **Usage Examples** - Code snippets and tutorials
-- **Tech Stack Showcase** - Technology badges
-- **Roadmap** - Future development plans
-- **Contributing Guide** - Community involvement
-
-### 🚀 **GitHub Optimization**
-- **SEO-friendly** - Keywords and descriptions
-- **Social Links** - Placeholder for community
-- **Star History** - GitHub metrics widget
-- **Deploy Buttons** - One-click deployment
-- **Issue Templates** - Bug reports and features
-
-### 🔧 **Customization Notes**
-
-Replace these placeholders with your actual information:
-- `yourusername` → Your GitHub username
-- `flowy-demo.vercel.app` → Your deployed app URL
-- `discord.gg/flowy` → Your Discord server
-- Add actual screenshots in the Screenshots section
-- Update the repository URL in badges
-
-This README will make your FLOWY repository stand out and attract contributors and users with its professional yet cyberpunk aesthetic! 🌃⚡
